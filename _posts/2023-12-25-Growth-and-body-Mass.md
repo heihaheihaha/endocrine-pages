@@ -113,6 +113,7 @@ IGF-1: long-term growth-promoting effects
 - stimulation of gluconeogenesis by hepatocytes 刺激肝细胞的糖异生
 
 #### Diabetogenic Effects of GH
+
 | Target           | Effect              |
 |------------------|---------------------|
 | Muscle           | ↓ Glucose uptake    |
